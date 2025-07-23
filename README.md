@@ -38,16 +38,6 @@
       <!-- Main Section -->
     <td width="70%" valign="top" style="background-color:#0d1117; color: #c9d1d9;">
       <br />
-      ## 🚀 Projects in Progress
-       - 🧠 **TalentScout**
-         – AI hiring assistant with automatic question generation  
-       - 📄 **CV Tailor** 
-         – Tailors your resume to job roles using LLMs + FastAPI  
-       - 🕵️‍♂️ **OSINT-Harvester**
-         – Scrapes and scores subdomains, emails, leaks 
-       - 👕 **ReWear**
-         – React + Node.js app promoting sustainable clothing exchange
-
 ## 🛠️ Tech Toolbox
 ---
   <p align="center">
@@ -69,6 +59,16 @@
  - 🤖 Use AI as a co-pilot, not a crutch  
  - ⚙️ CLI > GUI for real power
 
+## 🚀 Projects in Progress
+  - 🧠 **TalentScout**
+     – AI hiring assistant with automatic question generation  
+  - 📄 **CV Tailor** 
+    – Tailors your resume to job roles using LLMs + FastAPI  
+  - 🕵️‍♂️ **OSINT-Harvester**
+    – Scrapes and scores subdomains, emails, leaks 
+  - 👕 **ReWear**
+    – React + Node.js app promoting sustainable clothing exchange
+    
       <p align="center">
         <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="360px" />
       </p>
