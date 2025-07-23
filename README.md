@@ -17,22 +17,24 @@
       <h4 style="color: #c9d1d9;">🧠 AI & LLM Explorer</h4>
       <h4 style="color: #c9d1d9;">🕵️ OSINT Researcher</h4>
       <br /><br />
-      ### 🌐 Connect With Me  
+### 🌐 Connect With Me  
       <a href="https://www.linkedin.com/in/himanshu-kulshrestha" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a><br/><br/>
+      </a>
+      <br/><br/>
       <a href="mailto:hking0o1@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a><br/><br/>
+      </a>
+      <br/><br/>
       <a href="https://github.com/Hking0o1" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br /><br />
-      ### 🧩 Quick Facts  
-      - 🎧 Lo-fi beats fuel my sprints  
-      - 📍 Based in India (IST +5:30)  
-      - 🔐 Privacy-first mindset  
-      - 💡 Always building, always learning
+### 🧩 Quick Facts  
+  - 🎧 Lo-fi beats fuel my sprints  
+  - 📍 Based in India (IST +5:30)  
+  - 🔐 Privacy-first mindset  
+  - 💡 Always building, always learning
       <br /><br /><br />
     </td>
       <!-- Main Section -->
