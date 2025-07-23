@@ -39,16 +39,17 @@
     <td width="70%" valign="top" style="background-color:#0d1117; color: #c9d1d9;">
       <br />
 ## 🚀 Projects in Progress
-        - 🧠 **TalentScout** – AI hiring assistant with automatic question generation  
-        - 📄 **CV Tailor** – Tailors your resume to job roles using LLMs + FastAPI  
-        - 🕵️‍♂️ **OSINT-Harvester** – Scrapes and scores subdomains, emails, leaks  
-        - 👕 **ReWear** – React + Node.js app promoting sustainable clothing exchange
-        ---
-        ## 🛠️ Tech Toolbox
-          <p align="center">
-          <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,mongodb,postgres,docker,tailwind,bash,vscode" />
-          </p>
-        ---
+ - 🧠 **TalentScout** – AI hiring assistant with automatic question generation  
+ - 📄 **CV Tailor** – Tailors your resume to job roles using LLMs + FastAPI  
+ - 🕵️‍♂️ **OSINT-Harvester** – Scrapes and scores subdomains, emails, leaks 
+ - 👕 **ReWear** – React + Node.js app promoting sustainable clothing exchange
+
+## 🛠️ Tech Toolbox
+---
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,mongodb,postgres,docker,tailwind,bash,vscode" />
+  </p>
+---
 ## 📊 GitHub Analytics
         <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Hking0o1&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -58,7 +59,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hking0o1&layout=compact&theme=tokyonight&hide_border=true" />
       </p>
 
-      ---
 ## 🎯 Developer Mindset
  - 🛠️ "Done" beats "perfect", but “scalable” beats both  
  - ⚔️ Think like a builder, debug like a detective  
