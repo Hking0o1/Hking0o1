@@ -30,11 +30,13 @@
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br /><br />
+      
 ### 🧩 Quick Facts  
-  - 🎧 Lo-fi beats fuel my sprints  
-  - 📍 Based in India (IST +5:30)  
-  - 🔐 Privacy-first mindset  
-  - 💡 Always building, always learning
+ - 🎧 Lo-fi beats fuel my sprints  
+ - 📍 Based in India (IST +5:30)  
+ - 🔐 Privacy-first mindset  
+ - 💡 Always building, always learning
+   
       <br /><br /><br />
     </td>
       <!-- Main Section -->
