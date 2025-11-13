@@ -66,8 +66,8 @@
  - ⚙️ CLI > GUI for real power
 
 ## 🚀 Projects in Progress
-  - 🧠 **TalentScout**
-     – AI hiring assistant with automatic question generation  
+  - 🧠 **Sentine**
+     – AI Testing tool for automation testing
   - 📄 **CV Tailor** 
     – Tailors your resume to job roles using LLMs + FastAPI  
   - 🕵️‍♂️ **OSINT-Harvester**
