@@ -11,22 +11,34 @@
 <table>
   <tr>
     <!-- LEFT SIDEBAR -->
-    <td width="30%" valign="top" align="center" style="background-color:#0d1117;">
-      <br />
+    <!-- Profile Header Block -->
+<div align="center">
 
-      <h1 style="color:#00f9ff; font-size:34px;">Himanshu Kulshrestha</h1>
+  <h1 style="color:#00f9ff; font-size:34px; margin-bottom:10px;">
+    Himanshu Kulshrestha
+  </h1>
 
-      <img 
-        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-        width="180"
-        alt="coding gif"
-      />
+  <img
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="180"
+    alt="coding gif"
+    style="margin: 10px 0;"
+  />
 
-      <h3 style="color:#ffffff;">💼 Full-Stack Engineer</h3>
-      <h4 style="color:#c9d1d9;">🧠 AI / LLM Systems Builder</h4>
-      <h4 style="color:#c9d1d9;">🕵️ OSINT & Security Research</h4>
+  <h3 style="color:#ffffff; margin: 8px 0;">
+    💼 Full-Stack Engineer
+  </h3>
 
-      <br />
+  <h4 style="color:#c9d1d9; margin: 4px 0;">
+    🧠 AI / LLM Systems Builder
+  </h4>
+
+  <h4 style="color:#c9d1d9; margin: 4px 0;">
+    🕵️ OSINT & Security Research
+  </h4>
+
+</div>
+
 
 ### 🌐 Connect
 <a href="https://www.linkedin.com/in/himanshu-kulshrestha" target="_blank">
