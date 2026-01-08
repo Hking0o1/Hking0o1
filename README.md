@@ -1,87 +1,112 @@
-<!-- Dark Theme GitHub Profile README for Himanshu Kulshrestha -->
+<!-- Dark Theme GitHub Profile README -->
 
-<!-- Typing Animation Title -->
+<!-- Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F9FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Himanshu+Kulshrestha!;Full-Stack+Dev+%7C+AI+Builder+%7C+OSINT+Hacker;Building+intelligent+apps+with+impact+%F0%9F%94%A5" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F9FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Himanshu+Kulshrestha.;Full-Stack+Engineer+%7C+AI+%26+LLM+Builder+%7C+OSINT+Researcher;Engineering+secure%2C+scalable+systems+with+real-world+impact"
+    alt="Typing SVG"
+  />
 </p>
 
 <table>
   <tr>
-    <!-- Sidebar Section -->
+    <!-- LEFT SIDEBAR -->
     <td width="30%" valign="top" align="center" style="background-color:#0d1117;">
       <br />
-      <h1 align="center" style="font-size: 34px; color: #00f9ff;">Himanshu Kulshrestha</h1>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180px" />
-      <br />
-      <h3 style="color: #ffffff;">💼 Full-Stack Developer</h3>
-      <h4 style="color: #c9d1d9;">🧠 AI & LLM Explorer</h4>
-      <h4 style="color: #c9d1d9;">🕵️ OSINT Researcher</h4>
-      <br /><br />
 
-### 🌐 Connect With Me  
+      <h1 style="color:#00f9ff; font-size:34px;">Himanshu Kulshrestha</h1>
 
-  <a href="https://www.linkedin.com/in/himanshu-kulshrestha" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <br/><br/>
-      <a href="mailto:hking0o1@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-      <br/><br/>
-      <a href="https://github.com/Hking0o1" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <br /><br />
-      
-### 🧩 Quick Facts  
- - 🎧 Lo-fi beats fuel my sprints  
- - 📍 Based in India (IST +5:30)  
- - 🔐 Privacy-first mindset  
- - 💡 Always building, always learning
-   
-      <br /><br /><br />
-    </td>
-      <!-- Main Section -->
-    <td width="70%" valign="top" style="background-color:#0d1117; color: #c9d1d9;">
+      <img 
+        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+        width="180"
+        alt="coding gif"
+      />
+
+      <h3 style="color:#ffffff;">💼 Full-Stack Engineer</h3>
+      <h4 style="color:#c9d1d9;">🧠 AI / LLM Systems Builder</h4>
+      <h4 style="color:#c9d1d9;">🕵️ OSINT & Security Research</h4>
+
       <br />
-## 🛠️ Tech Toolbox
----
-  <p align="center">
+
+### 🌐 Connect
+<a href="https://www.linkedin.com/in/himanshu-kulshrestha" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<br/><br/>
+<a href="mailto:hking0o1@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<br/><br/>
+<a href="https://github.com/Hking0o1">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### ⚡ Quick Snapshot
+- 🎧 Lo-fi + focus = flow  
+- 📍 India (IST, UTC +5:30)  
+- 🔐 Security & privacy by default  
+- 🧪 Learning through building  
+
+<br/><br/><br/>
+</td>
+
+<!-- MAIN CONTENT -->
+<td width="70%" valign="top" style="background-color:#0d1117; color:#c9d1d9;">
+<br/>
+
+## 🛠 Tech Stack & Tools
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,mongodb,postgres,docker,tailwind,bash,vscode" />
-  </p>
+</p>
+
 ---
-## 📊 GitHub Analytics
-        <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Hking0o1&show_icons=true&theme=tokyonight&hide_border=true" />
-        <br />
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Hking0o1&theme=tokyonight&hide_border=true" />
-        <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hking0o1&layout=compact&theme=tokyonight&hide_border=true" />
-      </p>
 
-## 🎯 Developer Mindset
- - 🛠️ "Done" beats "perfect", but “scalable” beats both  
- - ⚔️ Think like a builder, debug like a detective  
- - 🤖 Use AI as a co-pilot, not a crutch  
- - ⚙️ CLI > GUI for real power
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hking0o1&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hking0o1&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hking0o1&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-## 🚀 Projects in Progress
-  - 🧠 **Sentine**
-     – AI Testing tool for automation testing
-  - 📄 **CV Tailor** 
-    – Tailors your resume to job roles using LLMs + FastAPI  
-  - 🕵️‍♂️ **OSINT-Harvester**
-    – Scrapes and scores subdomains, emails, leaks 
-  - 👕 **ReWear**
-    – React + Node.js app promoting sustainable clothing exchange
-    
-      <p align="center">
-        <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="360px" />
-      </p>
+---
 
-      <p align="center"><strong>“Code like a poet. Deploy like a ninja.” 🥷</strong></p>
+## 🧠 Engineering Philosophy
+- ✅ Shipping > perfection, **scalability > both**
+- 🕵️ Debug systems like investigations
+- 🤖 AI is a force multiplier, not a dependency
+- ⚙️ CLI-first mindset for control and speed
 
-      <br />
-    </td>
-  </tr>
+---
+
+## 🚀 Active Builds
+- 🧠 **Sentinel**  
+  AI-powered automation & testing intelligence platform  
+
+- 📄 **CV Tailor**  
+  Resume-to-job alignment using LLMs + FastAPI  
+
+- 🕵️ **OSINT Harvester**  
+  Subdomain, email & leak intelligence with risk scoring  
+
+- 👕 **ReWear**  
+  Sustainable clothing exchange platform (React + Node.js)
+
+<p align="center">
+  <img 
+    src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" 
+    width="360"
+  />
+</p>
+
+<p align="center">
+  <strong>“Build quietly. Ship relentlessly.” 🥷</strong>
+</p>
+
+<br/>
+</td>
+</tr>
 </table>
