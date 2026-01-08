@@ -86,13 +86,24 @@
 
   <!-- GitHub Stats -->
   <h2>GitHub Activity</h2>
-     <p align="center">
-       <img src="https://github-readme-stats.vercel.app/api?username=Hking0o1&show_icons=true&theme=tokyonight&hide_border=true"/>
+    <p align="center">
+         <img 
+              src="https://github-readme-stats.vercel.app/api?username=Hking0o1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+              alt="GitHub Stats"
+          />
        <br/>
-       <img src="https://github-readme-streak-stats.herokuapp.com?user=Hking0o1&theme=tokyonight&hide_border=true"/>
+         <img 
+              src="https://streak-stats.demolab.com?user=Hking0o1&theme=tokyonight&hide_border=true&cache_seconds=1800"
+              alt="GitHub Streak"
+         />
        <br/>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hking0o1&layout=compact&theme=tokyonight&hide_border=true"/>
-     </p>
+         <img 
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hking0o1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
+              alt="Top Languages"
+         />
+
+</p>
+
   <hr/>
 
   <!-- Mindset -->
