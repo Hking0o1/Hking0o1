@@ -1,124 +1,147 @@
-<!-- Dark Theme GitHub Profile README -->
+<!-- ===============================
+     GitHub Profile README
+     Clean • Professional • Human
+================================ -->
 
-<!-- Typing Animation Header -->
+<!-- Header / Intro -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F9FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Himanshu+Kulshrestha.;Full-Stack+Engineer+%7C+AI+%26+LLM+Builder+%7C+OSINT+Researcher;Engineering+secure%2C+scalable+systems+with+real-world+impact"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F9FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Himanshu+Kulshrestha;Full-Stack+Engineer+%7C+AI+%26+LLM+Systems;Security+%26+OSINT+Focused+Builder"
     alt="Typing SVG"
   />
 </p>
 
 <table>
-  <tr>
-    <!-- LEFT SIDEBAR -->
-    <!-- Profile Header Block -->
-<div align="center">
+<tr>
 
-  <h1 style="color:#00f9ff; font-size:34px; margin-bottom:10px;">
-    Himanshu Kulshrestha
-  </h1>
+<!-- ===============================
+     LEFT SIDEBAR
+================================ -->
+<td width="30%" valign="top" align="center">
 
-  <img
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    width="180"
-    alt="coding gif"
-    style="margin: 10px 0;"
-  />
+  <div align="center">
 
-  <h3 style="color:#ffffff; margin: 8px 0;">
-    💼 Full-Stack Engineer
-  </h3>
+    <h1 style="color:#00f9ff; font-size:34px; margin-bottom:12px;">
+      Himanshu Kulshrestha
+    </h1>
 
-  <h4 style="color:#c9d1d9; margin: 4px 0;">
-    🧠 AI / LLM Systems Builder
-  </h4>
+    <h3 style="margin:6px 0;">
+      Full-Stack Engineer
+    </h3>
 
-  <h4 style="color:#c9d1d9; margin: 4px 0;">
-    🕵️ OSINT & Security Research
-  </h4>
+    <h4 style="margin:4px 0;">
+      AI & LLM Systems Builder
+    </h4>
 
-</div>
+    <h4 style="margin:4px 0;">
+      OSINT & Security Research
+    </h4>
 
+  </div>
 
-### 🌐 Connect
-<a href="https://www.linkedin.com/in/himanshu-kulshrestha" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<br/><br/>
-<a href="mailto:hking0o1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<br/><br/>
-<a href="https://github.com/Hking0o1">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <br/>
 
-<br/><br/>
+  <!-- Connect -->
+  <h3>Connect</h3>
 
-### ⚡ Quick Snapshot
-- 🎧 Lo-fi + focus = flow  
-- 📍 India (IST, UTC +5:30)  
-- 🔐 Security & privacy by default  
-- 🧪 Learning through building  
+  <a href="https://www.linkedin.com/in/himanshu-kulshrestha">
+    LinkedIn
+  </a>
+  <br/><br/>
 
-<br/><br/><br/>
+  <a href="mailto:hking0o1@gmail.com">
+    Email
+  </a>
+  <br/><br/>
+
+  <a href="https://github.com/Hking0o1">
+    GitHub
+  </a>
+
+  <br/><br/>
+
+  <!-- Quick Facts -->
+  <h3>Quick Facts</h3>
+
+  <p align="left">
+    • Based in India (IST)<br/>
+    • Security & privacy focused<br/>
+    • Builder mindset<br/>
+    • Continuous learner
+  </p>
+
 </td>
 
-<!-- MAIN CONTENT -->
-<td width="70%" valign="top" style="background-color:#0d1117; color:#c9d1d9;">
-<br/>
+<!-- ===============================
+     MAIN CONTENT
+================================ -->
+<td width="70%" valign="top">
 
-## 🛠 Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,mongodb,postgres,docker,tailwind,bash,vscode" />
-</p>
+  <!-- Tech Stack -->
+  <h2>Tech Stack</h2>
 
----
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,mongodb,postgres,docker,tailwind,bash" />
+  </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hking0o1&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <hr/>
+
+  <!-- GitHub Stats -->
+  <h2>GitHub Activity</h2>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hking0o1&show_icons=true&hide_border=true" />
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Hking0o1&hide_border=true" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hking0o1&layout=compact&hide_border=true" />
+  </p>
+
+  <hr/>
+
+  <!-- Mindset -->
+  <h2>Engineering Mindset</h2>
+
+  <ul>
+    <li>Ship working systems over perfect abstractions</li>
+    <li>Design for scalability and failure</li>
+    <li>Use AI as leverage, not dependency</li>
+    <li>Prefer CLI tools and automation</li>
+  </ul>
+
+  <hr/>
+
+  <!-- Projects -->
+  <h2>Selected Projects</h2>
+
+  <ul>
+    <li>
+      <strong>Sentinel</strong><br/>
+      AI-powered testing and system validation platform
+    </li>
+    <br/>
+    <li>
+      <strong>CV Tailor</strong><br/>
+      Resume optimization using LLMs and FastAPI
+    </li>
+    <br/>
+    <li>
+      <strong>OSINT Harvester</strong><br/>
+      Intelligence gathering with subdomain, email, and risk analysis
+    </li>
+    <br/>
+    <li>
+      <strong>ReWear</strong><br/>
+      Sustainable clothing exchange platform (React + Node.js)
+    </li>
+  </ul>
+
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hking0o1&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hking0o1&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
----
+  <p align="center">
+    <strong>Build systems that last.</strong>
+  </p>
 
-## 🧠 Engineering Philosophy
-- ✅ Shipping > perfection, **scalability > both**
-- 🕵️ Debug systems like investigations
-- 🤖 AI is a force multiplier, not a dependency
-- ⚙️ CLI-first mindset for control and speed
-
----
-
-## 🚀 Active Builds
-- 🧠 **Sentinel**  
-  AI-powered automation & testing intelligence platform  
-
-- 📄 **CV Tailor**  
-  Resume-to-job alignment using LLMs + FastAPI  
-
-- 🕵️ **OSINT Harvester**  
-  Subdomain, email & leak intelligence with risk scoring  
-
-- 👕 **ReWear**  
-  Sustainable clothing exchange platform (React + Node.js)
-
-<p align="center">
-  <img 
-    src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" 
-    width="360"
-  />
-</p>
-
-<p align="center">
-  <strong>“Build quietly. Ship relentlessly.” 🥷</strong>
-</p>
-
-<br/>
 </td>
 </tr>
 </table>
