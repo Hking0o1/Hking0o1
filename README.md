@@ -45,21 +45,17 @@
 
   <!-- Connect -->
   <h3>Connect</h3>
-
-  <a href="https://www.linkedin.com/in/himanshu-kulshrestha">
-    LinkedIn
-  </a>
-  <br/><br/>
-
-  <a href="mailto:hking0o1@gmail.com">
-    Email
-  </a>
-  <br/><br/>
-
-  <a href="https://github.com/Hking0o1">
-    GitHub
-  </a>
-
+     <a href="https://www.linkedin.com/in/himanshu-kulshrestha" target="_blank">
+       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+     </a>
+     <br/><br/>
+     <a href="mailto:hking0o1@gmail.com">
+       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+     </a>
+     <br/><br/>
+     <a href="https://github.com/Hking0o1">
+       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+     </a>
   <br/><br/>
 
   <!-- Quick Facts -->
@@ -90,15 +86,13 @@
 
   <!-- GitHub Stats -->
   <h2>GitHub Activity</h2>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hking0o1&show_icons=true&hide_border=true" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Hking0o1&hide_border=true" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hking0o1&layout=compact&hide_border=true" />
-  </p>
-
+     <p align="center">
+       <img src="https://github-readme-stats.vercel.app/api?username=Hking0o1&show_icons=true&theme=tokyonight&hide_border=true"/>
+       <br/>
+       <img src="https://github-readme-streak-stats.herokuapp.com?user=Hking0o1&theme=tokyonight&hide_border=true"/>
+       <br/>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hking0o1&layout=compact&theme=tokyonight&hide_border=true"/>
+     </p>
   <hr/>
 
   <!-- Mindset -->
