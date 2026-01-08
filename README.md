@@ -19,25 +19,27 @@
 ================================ -->
 <td width="30%" valign="top" align="center">
 
-  <div align="center">
+  <!-- Profile Header -->
+<div align="center">
 
-    <h1 style="color:#00f9ff; font-size:34px; margin-bottom:12px;">
-      Himanshu Kulshrestha
-    </h1>
+  <h1 style="color:#00f9ff; font-size:34px; margin-bottom:12px;">
+    Himanshu Kulshrestha
+  </h1>
 
-    <h3 style="margin:6px 0;">
-      Full-Stack Engineer
-    </h3>
+  <h3 style="color:#ffffff; margin: 6px 0;">
+    Full-Stack Engineer
+  </h3>
 
-    <h4 style="margin:4px 0;">
-      AI & LLM Systems Builder
-    </h4>
+  <h4 style="color:#c9d1d9; margin: 4px 0;">
+    AI & LLM Systems Builder
+  </h4>
 
-    <h4 style="margin:4px 0;">
-      OSINT & Security Research
-    </h4>
+  <h4 style="color:#c9d1d9; margin: 4px 0;">
+    OSINT & Security Research
+  </h4>
 
-  </div>
+</div>
+
 
   <br/>
 
