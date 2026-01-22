@@ -45,11 +45,11 @@
 
   <!-- Connect -->
   <h3>Connect</h3>
-     <a href="https://www.linkedin.com/in/himanshu-kulshrestha" target="_blank">
+     <a href="https://www.linkedin.com/in/himanshu-kulshrestha-336214200" target="_blank">
        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
      </a>
      <br/><br/>
-     <a href="mailto:hking0o1@gmail.com">
+     <a href="mailto:hkulshrestha6@gmail.com">
        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
      </a>
      <br/><br/>
